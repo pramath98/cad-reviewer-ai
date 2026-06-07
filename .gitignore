@@ -1,0 +1,5 @@
+data_chunks
+cad_graph_dataset.json
+__pycache__
+.vscode
+.DS_Store
